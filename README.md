@@ -13,3 +13,9 @@ The app also allow the user to adjust various parameters of the video conversion
 ## Demo App
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://sarthakshri-gifmaker.streamlit.app)
+
+## Demo Video
+
+
+https://user-images.githubusercontent.com/72563740/218283696-20178b08-ed5d-4773-a24b-1fa62b174616.mov
+
